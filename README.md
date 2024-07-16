@@ -1,5 +1,6 @@
-# zara-stock-bot
+# ZARA-Stock-Bot
 This bot is written in Python. If you change the URL part with the URL of the product you want and run it once and leave it open, it will send a notification to the e-mail you wrote when the stock arrives.
+Although this bot can be valid for many different brands if appropriate changes are made, it is currently operational on the website of the "Zara" clothing brand.
 
 VARIABLES TO BE CHANGED:
 -
