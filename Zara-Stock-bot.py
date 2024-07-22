@@ -62,6 +62,6 @@ def check_stock():
 while not IsAvailable:
     check_stock()
     if not IsAvailable:
-        time.sleep(300)  #Wait 5 minute and check again
+        time.sleep(240)  #Wait 4 minute and check again
 
 driver.quit()
